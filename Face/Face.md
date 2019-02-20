@@ -1,1 +1,1 @@
-First delect this file.
+First delete this file.
